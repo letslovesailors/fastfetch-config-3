@@ -1,0 +1,48 @@
+    "logo": {
+        "type": "file",
+        "source": "$HOME/.config/fastfetch/konata.txt"
+	"noColor": true
+    },
+    "separator": "→",
+    "keyColor": "cyan",
+    "colors": true,
+    "modules": [
+        {
+            "type": "title",
+            "key": "bina@arch"
+        },
+        {
+            "type": "os"
+        },
+        {
+            "type": "kernel"
+        },
+        {
+            "type": "shell"
+        },
+        {
+            "type": "terminal"
+        },
+        {
+            "type": "wm"
+        },
+        {
+            "type": "uptime"
+        },
+        {
+            "type": "cpu"
+        },
+        {
+            "type": "gpu"
+        },
+        {
+            "type": "memory"
+        },
+        {
+            "type": "disk"
+        },
+        {
+            "type": "break"
+        },
+        {
+            "type":
